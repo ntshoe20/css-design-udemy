@@ -1,6 +1,33 @@
-p,a{
+a{
     border-style: solid;
     margin: 30px;
     width: 60px;
     display: inline-block;
+}
+.wrapper{
+    background-color: bisque;
+    max-width: 960px;
+    margin: auto;
+    padding: 30px;
+}
+img{
+    float: right;
+    margin: 15px;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+.products h1, .products p{
+    color: coral;
+    margin-left: auto;
+}
+.products{
+    background-color: cornflowerblue;
+    float: left;
+    width: 21%;
+    padding: 1%;
+    margin: 1%;
+
 }
